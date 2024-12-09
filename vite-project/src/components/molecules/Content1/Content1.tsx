@@ -1,4 +1,3 @@
-import React from 'react'
 import EmailForm from '../../atoms/EmailForm/EmailForm';
 
 const Content1 = () => {
